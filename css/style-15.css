@@ -1,0 +1,10 @@
+/* colora di rosso:
+
+ tutti gli elementi em
+   che sono contenuti dentro a paragrafi
+   che sono contenuti dentro agli elementi HTML che definiscono la classe "articolo"
+
+*/
+SOSTITUISCIMI_CON_IL_SELETTORE_APPROPRIATO {
+  color: red;
+}

@@ -1,0 +1,5 @@
+/* colora di rosso tutti gli elementi HTML che definiscono la classe "data",
+contenuti dentro gli elementi HTML che definiscono la classe "commento" */
+SOSTITUISCIMI_CON_IL_SELETTORE_APPROPRIATO {
+  color: red;
+}
