@@ -1,4 +1,5 @@
 /* colora di rosso tutti i link contenuti dentro ai paragrafi */
-SOSTITUISCIMI_CON_IL_SELETTORE_APPROPRIATO {
+p a
+{
   color: red;
 }
