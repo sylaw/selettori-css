@@ -1,4 +1,5 @@
 /* colora di rosso tutti gli elementi HTML che definiscono la classe "commento" */
-SOSTITUISCIMI_CON_IL_SELETTORE_APPROPRIATO {
+.commento
+{
   color: red;
 }

@@ -1,5 +1,6 @@
 /* colora di rosso tutti gli elementi HTML che definiscono sia la classe
 "commento" che la classe "evidenza" */
-SOSTITUISCIMI_CON_IL_SELETTORE_APPROPRIATO {
+.commento.evidenza
+{
   color: red;
 }

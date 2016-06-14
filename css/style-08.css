@@ -1,4 +1,5 @@
 /* colora di rosso tutti i link che definiscono la classe "evidenza" */
-SOSTITUISCIMI_CON_IL_SELETTORE_APPROPRIATO {
+a.evidenza
+{
   color: red;
 }
